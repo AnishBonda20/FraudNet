@@ -7,7 +7,7 @@
 ![License](https://img.shields.io/badge/License-MIT-FFD700)
 ![Status](https://img.shields.io/badge/Status-Active-00C853)
 
-> An end-to-end fraud detection platform built on a stacking ensemble of gradient boosting models with SHAP explainability, JWT-secured REST API, and a React dashboard — developed as a B.Tech final-year thesis at **VIT, School of Computer Science and Engineering**.
+> An end-to-end fraud detection platform built on a stacking ensemble of gradient boosting models with SHAP explainability, JWT-secured REST API, and a React dashboard
 
 ---
 
